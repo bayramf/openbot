@@ -40,7 +40,7 @@ OpenBot is the first sniper and trading bot designed for the OpenGPU Network. It
 
 1. **Run the bot**:
    ```sh
-   python bot.py
+   python main.py
    ```
 
 2. **Interact with the bot on Telegram**:
