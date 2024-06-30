@@ -1,6 +1,6 @@
 # OpenBot
 
-OpenBot is the first sniper and purchasing bot designed for the OpenGPU Network. It enables users to snipe tokens, swap tokens, and place limit orders efficiently. The bot interacts with the OpenGPU Devnet node and facilitates seamless transactions through the Telegram interface.
+OpenBot is the first sniper and trading bot designed for the OpenGPU Network. It enables users to snipe tokens, swap tokens, and place limit orders efficiently. The bot interacts with the OpenGPU Devnet node and facilitates seamless transactions through the Telegram interface.
 
 ## Features
 
