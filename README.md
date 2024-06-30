@@ -4,7 +4,7 @@ OpenBot is the first sniper and purchasing bot designed for the OpenGPU Network.
 
 ## Features
 
-- **Snipe Tokens**: Quickly purchase newly launched tokens.
+- **Snipe Tokens**: Quickly snipe newly launched tokens.
 - **Swap Tokens**: Easily swap between different tokens.
 - **Limit Orders**: Place buy or sell orders at specific price limits.
 
