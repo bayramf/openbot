@@ -1415,13 +1415,14 @@ WALLET_ADDRESS, PRIVATE_KEY, TOKEN_ADDRESS, AMOUNT_TO_BUY, ACTION_CHOICE, LIMIT_
 # Welcome message
 WELCOME_MESSAGE = """Welcome to OpenBot!
 
-The first sniper and purchasing bot on the OpenGPU Network.
+The first sniper and trading bot on the OpenGPU Network.
 
 Commands:
 /begin
 
 GitHub: https://github.com/bayramf/openbot/
-Telegram: https://t.me/+V8UY4bGqyEAxZmQ0"""
+Telegram Bot: https://t.me/open0000_bot
+Telegram Community: https://t.me/+V8UY4bGqyEAxZmQ0"""
 
 # Wallet Setup
 step_one = """⚙️ Wallet Setup"""
