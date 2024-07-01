@@ -61,7 +61,7 @@ The bot is built using Python and leverages the following libraries:
 ### Key Functions
 
 - **Wallet Setup**: Allows users to create or import a wallet.
-- **Snipe Tokens**: Automates the process of purchasing new tokens quickly.
+- **Snipe Tokens**: Automates the process of sniping new tokens quickly.
 - **Swap Tokens**: Enables users to swap between tokens.
 - **Limit Orders**: Allows users to place buy/sell orders at specific prices.
 
