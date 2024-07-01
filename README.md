@@ -48,6 +48,8 @@ OpenBot is the first sniper and trading bot designed for the OpenGPU Network. It
    - Follow the prompts to set up your wallet or import an existing wallet.
    - Use the provided commands to snipe tokens, swap tokens, or place limit orders.
 
+<img src="https://github.com/bayramf/openbot/assets/62951045/6be553c9-dc13-4831-b3bf-c57a685d71a8" width="400"/> <img src="https://github.com/bayramf/openbot/assets/62951045/c6898097-7d0f-4374-9278-a952ee098f90" width="400"/>
+
 ## Code Explanation
 
 The bot is built using Python and leverages the following libraries:
